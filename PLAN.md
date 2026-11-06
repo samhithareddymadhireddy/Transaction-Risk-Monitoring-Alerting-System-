@@ -46,7 +46,7 @@ If a feature gets cut, remove or edit the matching resume bullet.
 ## 3. Repository structure
 
 ```
-risk-monitoring-system/
+Transaction-Risk-Monitoring-Alerting-System-/
 ├── README.md
 ├── PLAN.md
 ├── docker-compose.yml
@@ -63,7 +63,7 @@ risk-monitoring-system/
 │   ├── Dockerfile
 │   ├── pom.xml
 │   └── src/
-│       ├── main/java/com/rathan/riskmonitor/
+│       ├── main/java/com/samhitha/riskmonitor/
 │       │   ├── RiskMonitorApplication.java
 │       │   ├── config/          # SecurityConfig, OpenApiConfig
 │       │   ├── transaction/     # entity, repository, service, controller, dto

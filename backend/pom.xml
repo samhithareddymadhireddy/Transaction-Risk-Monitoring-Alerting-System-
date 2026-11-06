@@ -11,7 +11,7 @@
         <relativePath/>
     </parent>
 
-    <groupId>com.rathan</groupId>
+    <groupId>com.samhitha</groupId>
     <artifactId>riskmonitor</artifactId>
     <version>1.0.0</version>
     <name>riskmonitor</name>
@@ -137,9 +137,9 @@
                 <version>${jacoco.version}</version>
                 <configuration>
                     <excludes>
-                        <exclude>com/rathan/riskmonitor/**/config/**</exclude>
-                        <exclude>com/rathan/riskmonitor/RiskMonitorApplication.class</exclude>
-                        <exclude>com/rathan/riskmonitor/**/dto/**</exclude>
+                        <exclude>com/samhitha/riskmonitor/**/config/**</exclude>
+                        <exclude>com/samhitha/riskmonitor/RiskMonitorApplication.class</exclude>
+                        <exclude>com/samhitha/riskmonitor/**/dto/**</exclude>
                     </excludes>
                 </configuration>
                 <executions>
