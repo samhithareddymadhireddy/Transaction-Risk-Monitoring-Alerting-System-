@@ -1,6 +1,6 @@
 # Transaction Risk Monitoring & Alerting System: Build Plan
 
-Repo name: `risk-monitoring-system`
+Repo name: `Transaction-Risk-Monitoring-Alerting-System-`
 Goal: a small banking-style platform that ingests transactions, flags suspicious activity with a rule engine and an ML model, and routes alerts through a role-based review and escalation workflow with an immutable audit trail.
 
 > **How to use this file:** give it to your coding assistant (Claude Code, Cursor, etc.) one phase at a time: "Implement Phase 2 of PLAN.md". Tell it to stop after each phase so you can run the tests and commit before moving on.
@@ -263,7 +263,7 @@ If you run short on time, protect these in order: Phases 1-4 (the core claims), 
 - [x] CI is green on `main`; README badge present
 - [x] Merged pull requests exist for each phase, with the PR template filled in
 - [x] `docs/` contains requirements, user stories, architecture diagram and API notes
-- [x] Repo name and link match the resume: `github.com/RathanPaida/risk-monitoring-system`
+- [x] Repo name and link match the resume: `github.com/samhithareddymadhireddy/Transaction-Risk-Monitoring-Alerting-System-`
 - [x] Resume bullets match what actually exists (edit them if anything was cut)
 
 ## 11. Interview talking points to prepare

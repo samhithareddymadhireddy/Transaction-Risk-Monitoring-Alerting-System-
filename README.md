@@ -1,6 +1,6 @@
 # Transaction Risk Monitoring & Alerting System
 
-[![CI Build](https://github.com/RathanPaida/risk-monitoring-system/actions/workflows/ci.yml/badge.svg)](https://github.com/RathanPaida/risk-monitoring-system/actions)
+[![CI Build](https://github.com/samhithareddymadhireddy/Transaction-Risk-Monitoring-Alerting-System-/actions/workflows/ci.yml/badge.svg)](https://github.com/samhithareddymadhireddy/Transaction-Risk-Monitoring-Alerting-System-/actions)
 ![Java](https://img.shields.io/badge/Java-17%2F25-orange.svg)
 ![Spring Boot](https://img.shields.io/badge/Spring%20Boot-3.2.5-brightgreen.svg)
 ![Python](https://img.shields.io/badge/Python-3.10%2F3.11-blue.svg)
